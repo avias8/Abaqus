@@ -1,0 +1,19 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB HeatTransfer
+Abaqus Student Edition 2021
+Begin Analysis Input File Processor
+2022-03-09 10:38:12 PM
+Run pre.exe
+2022-03-09 10:38:18 PM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+2022-03-09 10:38:18 PM
+Run standard.exe
+2022-03-09 10:38:24 PM
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+2022-03-09 10:38:24 PM
+Run SMASimUtility.exe
+2022-03-09 10:38:24 PM
+End SIM Wrap-up
+Abaqus JOB HeatTransfer COMPLETED
